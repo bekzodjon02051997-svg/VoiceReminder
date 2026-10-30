@@ -1,0 +1,2 @@
+-keep class com.bekzodjon.voicereminder.data.** { *; }
+-keep class * extends androidx.room.RoomDatabase
